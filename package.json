@@ -1,0 +1,21 @@
+{
+  "name": "resyarin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "frontmatter": "^0.0.3",
+    "gray-matter": "^3.0.2",
+    "markdown-it": "^8.3.2",
+    "markdown-it-highlightjs": "^3.0.0",
+    "next": "beta",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
